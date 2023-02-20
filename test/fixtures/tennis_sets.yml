@@ -1,0 +1,11 @@
+ # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  is_finished: false
+  winner_score: 1
+  looser_score: 1
+
+two:
+  is_finished: false
+  winner_score: 1
+  looser_score: 1
